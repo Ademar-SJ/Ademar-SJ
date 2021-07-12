@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m @Ademar-SJ
 - 👀 I’m a programmer, interesting especially in javascript and its frameworks and libs.
-- 🌱 I’m currently learning Node, React, React Native, Electron and Javascript technologies in general, also starting to learning Postgres (after learning some others SQL databases, 
-I decided to try to specialize).
+- 🌱 I’m currently learning Node, React, React Native, Electron and Javascript technologies in general, also starting to learning Postgres (after learning some others SQL databases like mySQL,SQL Server, Firebird).
 - :computer: I'm working actually with Pascal with Delphi in a commercial automation enterprise.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ademar-SJ)](https://github.com/Ademar-SJ)
