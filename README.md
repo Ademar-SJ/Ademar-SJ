@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @Ademar-SJ
 - 👀 I’m a programmer, interesting especially in javascript and its frameworks and libs.
-- 🌱 I’m currently learning Node, React, React Native, Electron and Javascript technologies in general, also starting to learning Postgres (after learning some others SQL databases like mySQL,SQL Server, Firebird).
-- :computer: I'm working actually with Pascal with Delphi in a commercial automation enterprise.
+- 🌱 I’m currently studying Javascript technologies (NodeJS,React and React Native).
+- :computer: I had some real job experience in Pascal with Delphi using MSSQL, and now i'm working with React Native and RealmDB.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ademar-SJ)](https://github.com/Ademar-SJ)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ademar-seide-junior-a8280a198/)](https://www.linkedin.com/in/ademar-seide-junior-a8280a198/)
