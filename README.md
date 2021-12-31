@@ -1,7 +1,7 @@
 ## About me
 
 - 👋 Hi, I’m @Ademar-SJ
-- 👀 I’m a programmer, interesting especially in javascript and its frameworks and libs.
+- 👀 I’m a programmer, interesting especially in javascript, its frameworks and libs and passionate about making people's lives easier.
 - 🌱 I’m currently studying Javascript technologies (NodeJS,React and React Native).
 - :computer: I had some real job experience in Pascal with Delphi using MSSQL, and now i'm working with React Native and RealmDB.
 
