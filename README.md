@@ -2,35 +2,25 @@
 
 - 👋 Hi, I’m @Ademar-SJ
 - 👀 I’m a programmer, interesting especially in javascript, its frameworks and libs and passionate about making people's lives easier.
-- 🌱 I’m currently studying Javascript technologies (NodeJS,React and React Native).
-- :computer: I had some real job experience in Pascal with Delphi using MSSQL, and now i'm working with React Native and RealmDB.
+- 🌱 I’m currently studying and improving my Javascript knowledge (NodeJS, React and React Native).
+- :computer: I had some real job experience in Pascal, MSSQL Server, Postgres, NodeJS, React Native and RealmDB.
+- :book: I like to write some articles too (it's more like tutorials), in Medium.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ademar-SJ)](https://github.com/Ademar-SJ)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ademar-seide-junior-a8280a198/)](https://www.linkedin.com/in/ademar-seide-junior-a8280a198/)
+My links:
+<div>
+<a href="https://www.linkedin.com/in/ademar-seide-junior-a8280a198">
+<img alt= "linkedin logo" style="width: 50px; height:50px"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
 
-[![Ademar-SJ GitHub stats](https://github-readme-stats.vercel.app/api?username=Ademar-SJ)](https://github.com/Ademar-SJ/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ademar-SJ&layout=compact&hide=objective-C,starlark,ruby)](https://github.com/Ademar-SJ/github-readme-stats)
+<a href="https://www.linkedin.com/in/ademar-seide-junior-a8280a198">
+<img alt= "Meidum logo" style="width: 50px; height:50px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>
+</a>
+<div>
 
-![Linkedin Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Linkedin Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+## Stats
+Some info about my personal coding repositories:
 
-
-<!---
-https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white
-
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-
-https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
-
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-
-https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9
-
-Ademar-SJ/Ademar-SJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/ademarsj">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=QuerenHapuqueRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuerenHapuqueRocha&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: inline_block"><br>
