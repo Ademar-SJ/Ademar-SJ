@@ -1,6 +1,6 @@
 ## About me
 
-- 👋 Hi, I’m @Ademar-SJ
+- 👋 Hi, I’m @ademarsj
 - 👀 I’m a programmer, interesting especially in javascript, its frameworks and libs and passionate about making people's lives easier.
 - 🌱 I’m currently studying and improving my Javascript knowledge (NodeJS, React and React Native).
 - :computer: I had some real job experience in Pascal, MSSQL Server, Postgres, NodeJS, React Native and RealmDB.
@@ -8,11 +8,11 @@
 
 My links:
 <div>
-<a href="https://www.linkedin.com/in/ademar-seide-junior-a8280a198">
+<a href="https://linkedin.com/in/ademarsj">
 <img alt= "linkedin logo" style="width: 50px; height:50px"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ademar-seide-junior-a8280a198">
+<a href="https://medium.com/@ademarsj">
 <img alt= "Meidum logo" style="width: 50px; height:50px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>
 </a>
 <div>
