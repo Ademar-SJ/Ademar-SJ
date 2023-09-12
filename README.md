@@ -1,12 +1,35 @@
-## About me
+## Ademar Seide (ademarsj)
+Hi there 👋, I'm Ademar, software developer since 2019.
 
-- 👋 Hi, I’m @ademarsj
-- 👀 I’m a programmer, interesting especially in javascript, its frameworks and libs and passionate about making people's lives easier.
-- 🌱 I’m currently studying and improving my Javascript knowledge (NodeJS, React and React Native).
-- :computer: I had some real job experience in Pascal, MSSQL Server, Postgres, NodeJS, React Native and RealmDB.
-- :book: I like to write some articles too (it's more like tutorials), in Medium.
+### Personal stuff
+* :man_student: Bachelor's degree in Information Systems from UFLA (2023)
+* :briefcase: Currently I'm a programmer and the tech leader of a squad
+* :pencil: I like to write some articles/guides in <a href="https://medium.com/@ademarsj">Medium</a>
+* :file_folder: Some experience with brazilian accounting due to work with NFe, NFCe, CTe, MDFe, SPED and others
+* :brazil:
 
-My links:
+## Engineering Stack
+<img alt="delphi" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/b8728f4b-a257-4167-a4e8-e451c95e7878"> </img>
+<img alt="javascript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/e8ecddee-54f9-4418-a31b-d3ff64231e2e"> </img>
+<img alt="typescript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/baf6af3a-4f83-4ac6-a8fc-331ec2317722"> </img>
+<img alt="nodejs" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/04205ce0-edd5-4998-8d22-7f8e6fe12f18"> </img>
+<img alt="bash" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/5cef1af9-5b08-41ed-8532-c9b810facc8f"> </img>
+<img alt="sql_server" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/cb6255e0-ebce-41d4-a129-73ae59fda162"> </img>
+<img alt="postgres" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/fcc896e8-9f5a-4eb6-b11c-50dca06745c0"> </img>
+
+
+### :man_technologist: Current Stack:
+* **Programming**: Pascal, Javascript / Typescript (NodeJS), Bash
+* **Databases**: Microsoft SQL Server, PostgreSQL
+* **Infra/Cloud**: SaveInCloud (Virtuozzo), Git
+* **Agile practices**: Scrum, Kanban
+
+### :scroll: Have worked with:
+* **Front-end**: React, Angular
+* **Infra/Cloud**: Linux, Docker, AWS
+* **Mobile**: React Native, Ionic (Angular)
+
+Where you can find me:
 <div>
 <a href="https://linkedin.com/in/ademarsj">
 <img alt= "linkedin logo" style="width: 50px; height:50px"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
@@ -16,11 +39,3 @@ My links:
 <img alt= "Meidum logo" style="width: 50px; height:50px" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png"/>
 </a>
 <div>
-
-## Stats
-Some info about my personal coding repositories:
-
-<a href="https://github.com/ademarsj">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ademarsj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademarsj&layout=compact&langs_count=7&theme=dracula"/>
-<div style="display: inline_block"><br>
