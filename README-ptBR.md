@@ -1,16 +1,17 @@
-# Select Language: [English, [Português](README-ptBR.md)]
+# Select Language: [[English](README.md), Português]
+
 
 ## Ademar Seide (ademarsj)
-Hi there 👋, I'm Ademar, software developer since 2019.
+Olá 👋, eu sou o Ademar, desenvolvedor de software desde 2019.
 
-### Personal stuff
-* :man_student: Bachelor's degree in Information Systems from UFLA (2023)
-* :briefcase: Currently I'm a programmer and the tech leader of a squad
-* :pencil: I like to write some articles/guides in <a href="https://medium.com/@ademarsj">Medium</a>
-* :file_folder: Some experience with brazilian accounting due to work with NFe, NFCe, CTe, MDFe, SPED and others
+### Tópicos Pessoais
+* :man_student: Bacharelado em Sistemas de Informação pela UFLA (2023)
+* :briefcase: Atualmente eu sou programador e líder técnico de uma equipe
+* :pencil: Eu gosto de escrever alguns artigos/guias no <a href="https://medium.com/@ademarsj">Medium</a>
+* :file_folder: Tenho experiência também com contabilidade no Brasil devido ao meu trabalho com NFe, NFCe, CTe, MDFe, SPED e outros
 * :brazil:
 
-## Engineering Stack
+## Linguagens e Ferramentas
 <img alt="delphi" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/b8728f4b-a257-4167-a4e8-e451c95e7878"> </img>
 <img alt="javascript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/e8ecddee-54f9-4418-a31b-d3ff64231e2e"> </img>
 <img alt="typescript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/baf6af3a-4f83-4ac6-a8fc-331ec2317722"> </img>
@@ -20,18 +21,18 @@ Hi there 👋, I'm Ademar, software developer since 2019.
 <img alt="postgres" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/fcc896e8-9f5a-4eb6-b11c-50dca06745c0"> </img>
 
 
-### :man_technologist: Current Stack:
+### :man_technologist: Stack Atual:
 * **Programming**: Pascal, Javascript / Typescript (NodeJS), Bash
 * **Databases**: Microsoft SQL Server, PostgreSQL
 * **Infra/Cloud**: SaveInCloud (Virtuozzo), Git
 * **Agile practices**: Scrum, Kanban
 
-### :scroll: Have worked with:
+### :scroll: Trabalhei com:
 * **Front-end**: React, Angular
 * **Infra/Cloud**: Linux, Docker, AWS
 * **Mobile**: React Native, Ionic (Angular)
 
-Where you can find me:
+Onde você pode me encontrar:
 
 <div>
 <a href="https://linkedin.com/in/ademarsj">
