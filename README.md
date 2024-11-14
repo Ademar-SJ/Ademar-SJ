@@ -1,16 +1,22 @@
 # Select Language: [English, [Português](README-ptBR.md)]
 
 ## Ademar Seide (ademarsj)
+
 Hi there 👋, I'm Ademar, software developer since 2019.
 
+You can see a brief overview of my experience and technical skills below,
+but if you want more information, visit my website: [portifolio-ademarsj](https://portifolio-ademarsj.vercel.app/)
+
 ### Personal stuff
-* :man_student: Bachelor's degree in Information Systems from UFLA (2023)
-* :briefcase: Currently I'm a programmer and the tech leader of a squad
-* :pencil: I like to write some articles/guides in <a href="https://medium.com/@ademarsj">Medium</a>
-* :file_folder: Some experience with brazilian accounting due to work with NFe, NFCe, CTe, MDFe, SPED and others
-* :brazil:
+
+- :man_student: Bachelor's degree in Information Systems from UFLA (2023)
+- :briefcase: Currently I'm a programmer and the tech leader of a squad
+- :pencil: I like to write some articles/guides in <a href="https://medium.com/@ademarsj">Medium</a>
+- :file_folder: Some experience with brazilian accounting due to work with NFe, NFCe, CTe, MDFe, SPED and others
+- :brazil:
 
 ## Engineering Stack
+
 <img alt="delphi" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/b8728f4b-a257-4167-a4e8-e451c95e7878"> </img>
 <img alt="javascript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/e8ecddee-54f9-4418-a31b-d3ff64231e2e"> </img>
 <img alt="typescript" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/baf6af3a-4f83-4ac6-a8fc-331ec2317722"> </img>
@@ -19,17 +25,18 @@ Hi there 👋, I'm Ademar, software developer since 2019.
 <img alt="sql_server" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/cb6255e0-ebce-41d4-a129-73ae59fda162"> </img>
 <img alt="postgres" style="height: 40px; width: 40px;" src="https://github.com/ademarsj/ademarsj/assets/59055854/fcc896e8-9f5a-4eb6-b11c-50dca06745c0"> </img>
 
-
 ### :man_technologist: Current Stack:
-* **Programming**: Pascal, Javascript / Typescript (NodeJS), Bash
-* **Databases**: Microsoft SQL Server, PostgreSQL
-* **Infra/Cloud**: SaveInCloud (Virtuozzo), Git
-* **Agile practices**: Scrum, Kanban
+
+- **Programming**: Pascal, Javascript / Typescript (NodeJS), Bash
+- **Databases**: Microsoft SQL Server, PostgreSQL
+- **Infra/Cloud**: SaveInCloud (Virtuozzo), Git
+- **Agile practices**: Scrum, Kanban
 
 ### :scroll: Have worked with:
-* **Front-end**: React, Angular
-* **Infra/Cloud**: Linux, Docker, AWS
-* **Mobile**: React Native, Ionic (Angular)
+
+- **Front-end**: React, Angular
+- **Infra/Cloud**: Linux, Docker, AWS
+- **Mobile**: React Native, Ionic (Angular)
 
 Where you can find me:
 
